@@ -13,3 +13,6 @@
 <img width="451" alt="Screenshot 2025-03-31 at 3 47 12 AM" src="https://github.com/user-attachments/assets/08e0bc54-7967-4809-8ef4-5e9dd71a2092" />
 <img width="451" alt="Screenshot 2025-03-31 at 3 47 12 AM" src="https://github.com/user-attachments/assets/58288ea2-12e3-434a-b10f-d85979fee7ee" />
 <img width="452" alt="Screenshot 2025-03-31 at 3 47 23 AM" src="https://github.com/user-attachments/assets/ef724424-e74c-4b85-b77a-65976cc9a553" />
+
+
+<img width="1291" alt="CourseWork" src="https://github.com/user-attachments/assets/042bdac9-e460-43e4-bad1-900893b35c31" />
