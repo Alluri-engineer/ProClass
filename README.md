@@ -1,7 +1,6 @@
 # ProClass
  
-<img width="454" alt="Screenshot 2025-03-31 at 3 45 17 AM" src="https://github.com/user-attachments/assets/52e682b2-1cf7-4470-b871-f1d7c730a3d9" />
-<img width="455" alt="Screenshot 2025-03-31 at 3 45 32 AM" src="https://github.com/user-attachments/assets/c5df4368-6b92-46c0-bd30-09aa7b0a8c32" />
+<img width="454" alt="Screenshot 2025-03-31 at 3 45 17 AM" src="https://github.com/user-attachments/assets/52e682b2-1cf7-4470-b871-f1d7c730a3d9" /> <img width="455" alt="Screenshot 2025-03-31 at 3 45 32 AM" src="https://github.com/user-attachments/assets/c5df4368-6b92-46c0-bd30-09aa7b0a8c32" />
 <img width="454" alt="Screenshot 2025-03-31 at 3 45 45 AM" src="https://github.com/user-attachments/assets/4aedd230-069b-491b-ba77-a3c6d1e9c469" />
 <img width="454" alt="Screenshot 2025-03-31 at 3 45 55 AM" src="https://github.com/user-attachments/assets/2aa4e08e-a7d5-44ac-8d0f-53afcc989109" />
 <img width="453" alt="Screenshot 2025-03-31 at 3 46 05 AM" src="https://github.com/user-attachments/assets/df8addb5-3fc3-40ec-9ce9-e3ee61792f15" />
